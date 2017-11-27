@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Agenda de Contatos</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lblNome">Nome :</string>
+    <string name="lblTelefone">Telefone :</string>
+    <string name="lblEmail">Email :</string>
+    <string name="lblEndereco">Endereço :</string>
+    <string name="lbl_datas_especiais">Datas Especiais :</string>
+    <string name="lblGrupos">Grupos :</string>
+
+<string  name="lbl_salvar">Salvar</string>
+    <string name="lbl_alterar">Alterar</string>
+    <string name="lbl_excluir">Excluir</string>
+
+
+</resources>
